@@ -1,15 +1,23 @@
 # Adel Shurrab
 
-Backend Developer focused on Laravel, PHP, and backend system design.
+Backend Developer specializing in Laravel, PHP, and backend application development.
 
-I am a Computer Systems Engineering student at Palestine Technical College, expected to graduate in March 2026. I enjoy building backend applications that are practical, scalable, and cleanly structured.
+I am currently completing my B.Sc. in Computer Systems Engineering at Palestine Technical College, with an expected graduation in March 2026. I enjoy building backend systems that are clean, scalable, and practical, with a focus on real-world workflows and maintainable architecture.
+
+## About Me
+
+- Backend Developer focused on Laravel and PHP
+- Interested in system design, workflow-driven platforms, and real-time systems
+- Currently training as a Backend Developer at the University College of Ability Development (ADC)
+- Open to remote backend opportunities
 
 ## Tech Stack
-- PHP, Laravel, Filament, Livewire
-- MySQL, Redis
-- REST APIs
-- Python, FastAPI
-- Git, GitHub
+
+**Backend:** PHP, Laravel, Filament, Livewire  
+**Database:** MySQL, Redis  
+**APIs & Architecture:** REST APIs, MVC, RBAC  
+**Tools:** Git, GitHub, Postman, Composer  
+**Other:** Python, FastAPI
 
 ## Featured Projects
 
@@ -17,13 +25,14 @@ I am a Computer Systems Engineering student at Palestine Technical College, expe
 A web-based blood donation management system developed as a graduation project.  
 It helps healthcare organizations connect with eligible nearby donors based on blood type, location, and request workflows.
 
-### Training Management System
+### ADC Training Management System
 A training management platform built for ADC to manage trainee applications, interviews, and department workflows.  
 I contributed to the backend development using Laravel, Filament, and Livewire.
 
-### eshop
-An e-commerce project built with custom PHP MVC architecture, focused on backend structure, routing, authentication, and database handling.
+### UniMart / eshop
+An e-commerce project built with a custom PHP MVC architecture, focused on backend structure, routing, authentication, and database handling.
 
 ## Contact
-- LinkedIn: [Adel Abdullah](https://www.linkedin.com/in/adel-abdullah-7a92b0288/)
-- Email: adelshurrab2003@gmail.com
+
+- **LinkedIn:** [Adel Abdullah](https://www.linkedin.com/in/adel-shurrab)
+- **Email:** adelshurrab2003@gmail.com

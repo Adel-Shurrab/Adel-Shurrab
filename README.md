@@ -13,11 +13,14 @@ I am currently completing my B.Sc. in Computer Systems Engineering at Palestine 
 
 ## Tech Stack
 
-**Backend:** PHP, Laravel, Filament, Livewire  
-**Database:** MySQL, Redis  
-**APIs & Architecture:** REST APIs, MVC, RBAC  
-**Tools:** Git, GitHub, Postman, Composer  
-**Other:** Python, FastAPI
+![PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-red)
+![Filament](https://img.shields.io/badge/Filament-Admin%20UI-orange)
+![Livewire](https://img.shields.io/badge/Livewire-Interactive-purple)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Redis](https://img.shields.io/badge/Redis-Cache-red)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python-green)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black)
 
 ## Featured Projects
 

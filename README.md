@@ -29,7 +29,6 @@ I focus on developing backend solutions that are reliable, secure, maintainable,
 - Based in **Khan Yunis, Palestine**
 - Open to **remote backend roles and contract opportunities**
 - Completing a B.Sc. in **Computer Systems Engineering**
-- Expected graduation: **September 2026**
 - Cumulative average: **85.83% — Very Good**
 
 ---
